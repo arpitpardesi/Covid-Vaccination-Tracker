@@ -1,0 +1,11 @@
+API: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=314&date=18-05-2021    
+
+{"center_id":702947,"name":"Nehru Yuva Kendra","address":"Moti Mahal Parisar Mhow"},
+
+{"center_id":624287,"name":"MH Mhow (Army Staff/veterans)","address":"Military Hospital Mhow"},
+
+{"center_id":618673,"name":"Red Cross(C B Girls HS School)","address":"WARD NO 5 MHOW Plowden Rd Bombay Bazar Dr. Ambedkar Nagar Madhya Pradesh 453441"}
+
+{"center_id":570915,"name":"CH MHOW (maheshwari School)","address":"Bakery Road Mhow Dr. Ambedkar Nagar"},
+
+{"center_id":618326,"name":"PHC KODRIYA(PATIDAR DHARMSHALA","address":"KODARIYA PHC BLOCK MHOW"}
